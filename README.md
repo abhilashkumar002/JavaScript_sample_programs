@@ -8,3 +8,4 @@ This repository has sample Javascript programs to learn to code in JavaScript la
 3) Write a program to check if a string is a palindrom or not.
 4) Write a program to check if a number is a palindrom or not.
 5) Write a program to reverse the string.
+6) Write a program to count number of occurence of a character in a string.
